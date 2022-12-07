@@ -1,0 +1,30 @@
+* {
+    box-sizing:border-box;
+    padding: 0;
+    margin-left: 5px;
+}
+
+body {
+    background-color: blanchedalmond;
+
+}
+
+nav {
+    background-color: azure;
+    display: flex;
+
+}
+
+p {
+    font-size: 18px;
+}
+
+.images {
+    height: 500px;
+    padding: 50px;
+}
+
+.contact-info {
+    background-color: azure;
+    display: inline-block
+}
